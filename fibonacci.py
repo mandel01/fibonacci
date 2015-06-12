@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
-"""Prints the first 500 elements in the Fibonacci sequence
-
-Used to illustrate some concepts of Python programming
-for first-grade students."""
+"""Prints the first 500 elements in the Fibonacci sequence"""
 
 numbers = 500
 fib = [1,1]
